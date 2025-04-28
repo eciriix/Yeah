@@ -1,0 +1,15 @@
+{
+    "$className": "Tool",
+    "Name": "Fireball",
+    "Archivable": true,
+    "CanBeDropped": true,
+    "RequiresHandle": false,
+    "ManualActivationOnly": false,
+    "TextureId": "",
+    "Attributes": {
+      "HotbarCooldown": 3,
+      "Name": "Fireball",
+      "Type": "Ability"
+    }
+  }
+  

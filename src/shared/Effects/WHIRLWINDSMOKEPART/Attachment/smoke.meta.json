@@ -1,0 +1,28 @@
+{
+    "$className": "ParticleEmitter",
+    "Name": "smoke",
+    "Archivable": true,
+    "Enabled": false,
+    "EmissionDirection": "Back",
+    "Lifetime": [3, 5],
+    "Rate": 20,
+    "Rotation": [-700, 700],
+    "RotSpeed": 0,
+    "Speed": 4,
+    "SpreadAngle": [45, 45],
+    "Shape": "Box",
+    "ShapeInOut": "Outward",
+    "ShapeStyle": "Volume",
+    "Texture": "rbxassetid://11446801985",
+    "FlipbookLayout": "Grid8x8",
+    "FlipbookMode": "OneShot",
+    "FlipbookStartRandom": false,
+    "Acceleration": [0, 0, 0],
+    "Drag": 1,
+    "LockedToPart": false,
+    "TimeScale": 1,
+    "VelocityInheritance": 0,
+    "WindAffectsDrag": false,
+    "EmitCount": 12
+  }
+  

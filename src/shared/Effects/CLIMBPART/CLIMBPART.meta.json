@@ -1,0 +1,27 @@
+{
+    "$className": "Part",
+    "Name": "CLIMBPART",
+    "Archivable": true,
+  
+    "BrickColor": "Medium stone grey",
+    "CastShadow": true,
+    "Color": [163, 162, 165],
+    "Material": "Plastic",
+    "Reflectance": 0,
+    "Transparency": 1,
+  
+    "Size": [4, 2.03, 2],
+    "CFrame": {
+      "Position": [118.7, -11.245, 477.58],
+      "Orientation": [0, 0, 0]
+    },
+  
+    "EnableFluidForces": true,
+    "Anchored": false,
+  
+    "CanCollide": true,
+    "CanTouch": true,
+    "CollisionGroup": "Default",
+  
+    "Shape": "Block"
+  }

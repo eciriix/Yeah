@@ -1,0 +1,20 @@
+{
+    "$className": "Trail",
+    "Name": "Trail",
+    "Archivable": true,
+    "Attachment0": "Attachment1",
+    "Attachment1": "Attachment2",
+    "Brightness": 1,
+    "Color": [255, 255, 255],
+    "FaceCamera": false,
+    "LightEmission": 0.7,
+    "LightInfluence": 0,
+    "Texture": "rbxassetid://4192000873",
+    "TextureLength": 1,
+    "TextureMode": "Stretch",
+    "Enabled": false,
+    "Lifetime": 0.3,
+    "MaxLength": 0,
+    "MinLength": 0,
+    "WidthScale": 1
+  }

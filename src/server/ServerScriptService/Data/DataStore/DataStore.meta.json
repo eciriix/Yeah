@@ -1,0 +1,7 @@
+{
+    "$className": "Script",
+    "Name": "Datastore",
+    "Archivable": true,
+    "Enabled": true,
+    "RunContext": "Legacy"
+  }

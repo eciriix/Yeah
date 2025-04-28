@@ -1,0 +1,28 @@
+{
+    "$className": "ParticleEmitter",
+    "Name": "B_SLASHWIND",
+    "Archivable": true,
+    "Enabled": false,
+    "EmissionDirection": "Top",
+    "Lifetime": 1,
+    "Rate": 20,
+    "Rotation": 0,
+    "RotSpeed": [-900, 900],
+    "Speed": 0.001,
+    "SpreadAngle": [0, 0],
+    "Shape": "Box",
+    "ShapeInOut": "Outward",
+    "ShapeStyle": "Volume",
+    "FlipbookLayout": "Grid4x4",
+    "FlipbookMode": "OneShot",
+    "FlipbookStartRandom": false,
+    "Acceleration": [0, 0, 0],
+    "Drag": 0,
+    "LockedToPart": true,
+    "TimeScale": 1,
+    "VelocityInheritance": 0,
+    "WindAffectsDrag": false,
+    "EmitCount": 20,
+    "EmitDelay": 0
+  }
+  

@@ -1,0 +1,29 @@
+{
+    "$className": "MeshPart",
+    "Name": "MeshPart",
+    "Archivable": true,
+    "BrickColor": "Sand red",
+    "CastShadow": true,
+    "Color": [124, 119, 123],
+    "DoubleSided": false,
+    "Material": "Metal",
+    "MaterialVariant": "Metal4",
+    "MeshId": "rbxassetid://17578234124",
+    "Reflectance": 1,
+    "RenderFidelity": "Automatic",
+    "Transparency": 0,
+    "Size": [0.327, 0.336, 0.137],
+    "CFrame": {
+      "Position": [-175.276, -8.204, 221.042],
+      "Orientation": [0, 0, 0]
+    },
+    "EnableFluidForces": true,
+    "FluidFidelity": "Automatic",
+    "Anchored": false,
+    "CanCollide": false,
+    "CanQuery": true,
+    "CanTouch": false,
+    "CollisionFidelity": "Default",
+    "CollisionGroup": "Default"
+  }
+  

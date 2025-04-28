@@ -1,0 +1,14 @@
+{
+    "$className": "Part",
+    "Name": "BodyAttach",
+    "Archivable": true,
+    "Transparency": 1,
+    "CanCollide": false,
+    "CanQuery": true,
+    "Anchored": false,
+    "Size": [0.13, 0.17, 0.55],
+    "BrickColor": "Medium stone grey",
+    "Material": "Plastic",
+    "CastShadow": true
+  }
+  

@@ -1,0 +1,28 @@
+{
+    "$className": "Part",
+    "Name": "GUARDBREAKPART",
+    "Archivable": true,
+  
+    "BrickColor": "Medium stone grey",
+    "CastShadow": true,
+    "Color": [163, 162, 165],
+    "Material": "Plastic",
+    "Reflectance": 0,
+    "Transparency": 0.5,
+  
+    "Size": [0.1, 0.1, 0.1],
+    "CFrame": {
+      "Position": [-189.99, 32.27, 260.19],
+      "Orientation": [0, 0, 0]
+    },
+  
+    "EnableFluidForces": true,
+    "Anchored": false,
+  
+    "CanCollide": false,
+    "CanQuery": false,
+    "CanTouch": false,
+    "CollisionGroup": "Default",
+  
+    "Shape": "Block"
+  }

@@ -1,0 +1,16 @@
+{
+    "$className": "Tool",
+    "Name": "WhirlwindFlourish",
+    "Archivable": true,
+    "CanBeDropped": true,
+    "ManualActivationOnly": false,
+    "RequiresHandle": false,
+    "ModelStreamingMode": "Default",
+    "Enabled": true,
+    "Attributes": {
+      "HotbarCooldown": 14,
+      "Name": "Whirlwind",
+      "Type": "Ability"
+    }
+  }
+  

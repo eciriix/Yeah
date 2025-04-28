@@ -1,0 +1,33 @@
+{
+    "$className": "ParticleEmitter",
+    "Name": "Circle",
+    "Archivable": true,
+    "Enabled": false,
+    "EmissionDirection": "Top",
+    "Lifetime": 0.275,
+    "Rate": 2,
+    "Rotation": [-360, 360],
+    "RotSpeed": 850,
+    "Speed": 0,
+    "SpreadAngle": 0,
+    "Shape": "Box",
+    "ShapeInOut": "Outward",
+    "ShapeStyle": "Volume",
+    "Color": [255, 117, 107],
+    "LightEmission": 1,
+    "LightInfluence": 1,
+    "Orientation": "FacingCamera",
+    "Size": "<NumberSequence>",
+    "Transparency": "<NumberSequence>",
+    "Texture": "rbxassetid://8494150181",
+    "ZOffset": 2.5,
+    "Acceleration": [0, 0, 0],
+    "Drag": 0,
+    "LockedToPart": true,
+    "TimeScale": 0.5,
+    "VelocityInheritance": 0,
+    "WindAffectsDrag": false,
+    "Attributes": {
+      "EmitCount": 1
+    }
+  }

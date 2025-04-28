@@ -1,0 +1,11 @@
+{
+    "$className": "PointLight",
+    "Archivable": true,
+    "Name": "PointLight",
+    "Enabled": true,
+    "Brightness": 29.28,
+    "Color": [0, 0, 0],
+    "Range": 2,
+    "Shadows": false
+  }
+  

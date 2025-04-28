@@ -1,0 +1,17 @@
+{
+    "$className": "Weld",
+    "Name": "MeshPart",
+    "Archivable": true,
+    "Part0": "Sword",
+    "Part1": "MeshPart",
+    "C0": {
+      "Position": [0, -2.13, -0.01],
+      "Orientation": [0, 0, 0]
+    },
+    "C1": {
+      "Position": [0, 0, 0],
+      "Orientation": [0, 0, 0]
+    },
+    "Enabled": true
+  }
+  

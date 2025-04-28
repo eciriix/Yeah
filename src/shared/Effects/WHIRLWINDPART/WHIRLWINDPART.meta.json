@@ -1,0 +1,27 @@
+{
+    "$className": "Part",
+    "Name": "WHIRLWINDPART",
+    "Archivable": true,
+  
+    "BrickColor": "Medium stone grey",
+    "CastShadow": true,
+    "Color": [163, 162, 165],
+    "Material": "Plastic",
+    "Reflectance": 0,
+    "Transparency": 1,
+  
+    "Size": [1, 1, 1],
+    "CFrame": {
+      "Position": [-256.83, 14.24, 284.41],
+      "Orientation": [0, 0, 0]
+    },
+  
+    "EnableFluidForces": true,
+    "Anchored": false,
+  
+    "CanCollide": true,
+    "CanTouch": true,
+    "CollisionGroup": "Default",
+  
+    "Shape": "Block"
+  }

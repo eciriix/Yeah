@@ -1,0 +1,33 @@
+{
+    "$className": "ParticleEmitter",
+    "Name": "FakeFlame",
+    "Archivable": true,
+    "Enabled": false,
+    "EmissionDirection": "Top",
+    "Lifetime": [1.5, 3],
+    "Rate": 50,
+    "Rotation": [-360, 360],
+    "RotSpeed": 0,
+    "Speed": 25,
+    "SpreadAngle": [180, 180],
+    "Shape": "Box",
+    "ShapeInOut": "Outward",
+    "ShapeStyle": "Volume",
+    "Color": [255, 54, 28],
+    "LightEmission": 0.6,
+    "LightInfluence": 0,
+    "Orientation": "FacingCamera",
+    "Size": "<NumberSequence>",
+    "Squash": 0,
+    "Texture": "rbxassetid://1746891745",
+    "Transparency": "<NumberSequence>",
+    "ZOffset": 2,
+    "Drag": 5,
+    "LockedToPart": false,
+    "TimeScale": 1,
+    "VelocityInheritance": 0,
+    "WindAffectsDrag": false,
+    "Attributes": {
+      "EmitCount": 10
+    }
+  }

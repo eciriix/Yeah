@@ -1,0 +1,20 @@
+{
+    "$className": "ParticleEmitter",
+    "Name": "s1",
+    "Archivable": true,
+    "Enabled": false,
+    "EmissionDirection": "Front",
+    "Lifetime": [0.7, 1],
+    "Rate": 4,
+    "Rotation": [0, 360],
+    "Speed": 5,
+    "SpreadAngle": [90, 90],
+    "Orientation": "FacingCamera",
+    "Texture": "rbxassetid://8187308218",
+    "ZOffset": 0,
+    "LockedToPart": false,
+    "TimeScale": 0.3,
+    "Drag": 0,
+    "LightEmission": 0,
+    "LightInfluence": 1
+  }

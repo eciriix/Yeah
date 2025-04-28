@@ -1,0 +1,22 @@
+{
+    "$className": "MeshPart",
+    "Archivable": true,
+    "Name": "ra",
+    "Transparency": 0.5,
+    "CastShadow": true,
+    "Material": "Neon",
+    "Color": [17, 17, 17],
+    "MeshId": "rbxasset://fonts/leftarm.mesh",
+    "Size": [0.986, 1.973, 0.986],
+    "CFrame": {
+      "Position": [-13.607, 2.959, -74.643],
+      "Orientation": [0, 0, 0]
+    },
+    "Anchored": true,
+    "CanCollide": false,
+    "CanQuery": true,
+    "CanTouch": true,
+    "CollisionFidelity": "Hull",
+    "CollisionGroup": "Default"
+  }
+  

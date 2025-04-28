@@ -1,0 +1,25 @@
+{
+    "$className": "Part",
+    "Name": "FALLSMOKEPART",
+    "Archivable": true,
+  
+    "BrickColor": "Tr. Blue",
+    "CastShadow": false,
+    "Color": [84, 172, 239],
+    "Material": "Glass",
+    "Reflectance": 0.15,
+    "Transparency": 1,
+  
+    "Size": [1.572, 1.091, 1.449],
+    "CFrame": {
+      "Position": [-206.865, 15.885, 323.573],
+      "Orientation": [0, 0, 0]
+    },
+  
+    "EnableFluidForces": true,
+    "Anchored": false,
+  
+    "CanCollide": true,
+    "CanTouch": true,
+    "CollisionGroup": "Default"
+  }

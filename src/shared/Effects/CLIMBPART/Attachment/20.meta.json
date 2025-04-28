@@ -1,0 +1,40 @@
+{
+    "$className": "ParticleEmitter",
+    "Name": "20",
+    "Archivable": true,
+  
+    "Brightness": 1,
+    "Color": [255, 255, 255],
+    "LightEmission": 0,
+    "LightInfluence": 0,
+    "Orientation": "VelocityPerpendicular",
+    "Squash": 0,
+    "Texture": "rbxassetid://11189077263",
+    "Transparency": [],          
+    "ZOffset": 0,
+  
+    "EmissionDirection": "Bottom",
+    "Enabled": false,
+    "Lifetime": 1,
+    "Rate": 10,
+    "Rotation": [0, 360],
+    "RotSpeed": 90,
+    "Speed": 5,
+    "SpreadAngle": [0, 0],
+  
+    "Shape": "Box",
+    "ShapeInOut": "Outward",
+    "ShapeStyle": "Volume",
+  
+    "FlipbookMode": "Loop",
+    "FlipbookLayout": "Grid2x2",
+    "FlipbookFrameRate": 30,
+    "FlipbookStartRandom": false,
+  
+    "Acceleration": [0, 0, 0],
+    "Drag": 5,
+    "LockedToPart": false,
+    "TimeScale": 1,
+    "VelocityInheritance": 0,
+    "WindAffectsDrag": false
+  }

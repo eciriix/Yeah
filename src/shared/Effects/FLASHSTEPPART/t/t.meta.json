@@ -1,0 +1,25 @@
+{
+    "$className": "MeshPart",
+    "Archivable": true,
+    "Name": "t",
+    "Transparency": 0.5,
+    "CastShadow": true,
+    "CanCollide": false,
+    "CanQuery": true,
+    "CanTouch": true,
+    "CollisionFidelity": "Hull",
+    "CollisionGroup": "Default",
+    "Anchored": true,
+    "Material": "Neon",
+    "MaterialVariant": null,
+    "Color": [17, 17, 17],
+    "Reflectance": 0,
+    "RenderFidelity": "Precise",
+    "MeshId": "rbxasset://fonts/torso.mesh",
+    "Size": [1.973, 1.973, 0.986],
+    "CFrame": {
+      "Position": [-15.086, 2.959, -74.643],
+      "Orientation": [0, 0, 0]
+    }
+  }
+  

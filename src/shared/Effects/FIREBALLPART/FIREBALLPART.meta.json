@@ -1,0 +1,29 @@
+{
+    "$className": "Part",
+    "Name": "FIREBALLPART",
+    "Archivable": true,
+  
+    "BrickColor": "Medium stone grey",
+    "CastShadow": false,
+    "Color": [163, 162, 165],
+    "Material": "Plastic",
+    "Reflectance": 0,
+    "Transparency": 0.55,
+  
+    "Size": [1, 1, 1],
+    "CFrame": {
+      "Position": [-337.523, 21.53, -267.031],
+      "Orientation": [0, 0, 0]
+    },
+  
+    "EnableFluidForces": true,
+    "Anchored": false,
+  
+    "CanCollide": false,
+    "CanQuery": false,
+    "CanTouch": false,
+    "CollisionGroup": "Default",
+  
+    "Massless": true,
+    "Shape": "Block"
+  }

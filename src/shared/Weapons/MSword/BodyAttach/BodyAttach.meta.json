@@ -1,0 +1,22 @@
+{
+    "$className": "Part",
+    "Name": "BodyAttach",
+    "Archivable": true,
+    "BrickColor": "Medium stone grey",
+    "CastShadow": true,
+    "Color": [163, 162, 165],
+    "Material": "Plastic",
+    "Transparency": 1,
+    "Size": [0.13, 0.17, 0.55],
+    "CFrame": {
+      "Position": [-175.235, -7.409, 221.051],
+      "Orientation": [90, 90, 0]
+    },
+    "EnableFluidForces": true,
+    "Anchored": false,
+    "CanCollide": false,
+    "CanQuery": true,
+    "CanTouch": false,
+    "CollisionGroup": "Default",
+    "Shape": "Block"
+  }

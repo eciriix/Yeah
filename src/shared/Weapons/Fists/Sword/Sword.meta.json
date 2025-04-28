@@ -1,0 +1,19 @@
+{
+    "$className": "Part",
+    "Name": "Sword",
+    "Archivable": true,
+    "BrickColor": "Medium stone grey",
+    "Color": [163, 162, 165],
+    "Material": "Plastic",
+    "CastShadow": true,
+    "Transparency": 1,
+    "CanCollide": false,
+    "CanQuery": true,
+    "Anchored": false,
+    "Size": [0.13, 0.17, 0.55],
+    "CFrame": {
+      "Position": [-175.235, -7.409, 221.051],
+      "Orientation": [90, 90, 0]
+    }
+  }
+  

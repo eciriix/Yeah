@@ -1,0 +1,10 @@
+{
+    "$className": "ModuleScript",
+    "Archivable": true,
+    "Name": "WindShake",
+    "Attributes": {
+      "WindDirection": [0.5, 0, 0.5],
+      "WindPower": 0.5,
+      "WindSpeed": 20
+    }
+  }

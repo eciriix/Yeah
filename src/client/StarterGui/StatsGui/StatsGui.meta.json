@@ -1,0 +1,15 @@
+{
+    "$className": "ScreenGui",
+    "Archivable": true,
+    "Name": "StatsGui",
+    "DisplayOrder": 0,
+    "Enabled": true,
+    "IgnoreGuiInset": false,
+    "ResetOnSpawn": true,
+    "ClipToDeviceSafeArea": true,
+    "SafeAreaCompatibility": "FullscreenExtension",
+    "ScreenInsets": "CoreUISafeInsets",
+    "ZIndexBehavior": "Global",
+    "AutoLocalize": true,
+    "RootLocalizationTable": ""
+  }

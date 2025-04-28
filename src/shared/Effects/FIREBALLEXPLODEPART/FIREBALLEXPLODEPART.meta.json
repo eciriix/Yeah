@@ -1,0 +1,28 @@
+{
+    "$className": "Part",
+    "Name": "FIREBALLEXPLODEPART",
+    "Archivable": true,
+  
+    "BrickColor": "Lily white",
+    "CastShadow": false,
+    "Color": [247, 234, 227],
+    "Material": "Plastic",
+    "Reflectance": 0,
+    "Transparency": 1,
+  
+    "Size": [1, 2, 1],
+    "CFrame": {
+      "Position": [-415.363, 18, -267.121],
+      "Orientation": [0, -90, 0]
+    },
+  
+    "EnableFluidForces": true,
+    "Anchored": true,
+  
+    "CanCollide": false,
+    "CanQuery": true,
+    "CanTouch": true,
+    "CollisionGroup": "Default",
+  
+    "Shape": "Block"
+  }

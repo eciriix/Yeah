@@ -1,0 +1,7 @@
+{
+    "$className": "Script",
+    "Archivable": true,
+    "Name": "RagdollR6",
+    "Enabled": false,
+    "RunContext": "Legacy"
+  }

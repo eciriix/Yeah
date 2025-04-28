@@ -1,0 +1,22 @@
+{
+    "$className": "MeshPart",
+    "Archivable": true,
+    "Name": "h",
+    "Transparency": 0.5,
+    "CastShadow": true,
+    "Material": "Neon",
+    "Color": [17, 17, 17],
+    "MeshId": "rbxasset://fonts/head.mesh",
+    "Size": [1.181, 1.186, 1.181],
+    "CFrame": {
+      "Position": [-15.086, 4.438, -74.643],
+      "Orientation": [0, 0, 0]
+    },
+    "Anchored": true,
+    "CanCollide": false,
+    "CanQuery": true,
+    "CanTouch": true,
+    "CollisionFidelity": "Hull",
+    "CollisionGroup": "Default"
+  }
+  

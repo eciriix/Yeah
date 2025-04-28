@@ -1,0 +1,25 @@
+{
+    "$className": "MeshPart",
+    "Name": "MeshPart",
+    "Archivable": true,
+    "BrickColor": "Wheat",
+    "CastShadow": true,
+    "Color": [241, 231, 199],
+    "Material": "WoodPlanks",
+    "MaterialVariant": "Wood 29",
+    "MeshId": "rbxassetid://17598640454",
+    "Size": [0.36, 5.926, 0.348],
+    "CFrame": {
+      "Position": [-175.303, -7.493, 229.515],
+      "Orientation": [0, 0, -1]
+    },
+    "EnableFluidForces": true,
+    "FluidFidelity": "Automatic",
+    "CanCollide": false,
+    "CanQuery": true,
+    "CanTouch": false,
+    "CollisionFidelity": "Default",
+    "CollisionGroup": "Default",
+    "Anchored": false
+  }
+  

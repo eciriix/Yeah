@@ -1,0 +1,6 @@
+{
+    "$className": "BoolValue",
+    "Name": "SaveInStudio",
+    "Archivable": true,
+    "Value": true
+  }

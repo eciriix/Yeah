@@ -1,0 +1,17 @@
+{
+    "$className": "Weld",
+    "Name": "MeshPart",
+    "Archivable": true,
+    "Part0": "BodyAttach",
+    "Part1": "MeshPart",
+    "C0": {
+      "Position": [0.01, -1.821, 0.003],
+      "Orientation": [1.558, 176.622, 178.908]
+    },
+    "C1": {
+      "Position": [0, 0, 0],
+      "Orientation": [0, 0, 0]
+    },
+    "Enabled": true
+  }
+  

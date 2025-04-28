@@ -1,0 +1,38 @@
+{
+    "$className": "ParticleEmitter",
+    "Name": "BLOOD03",
+    "Archivable": true,
+  
+    "Color": [134,  53,  53],
+    "LightEmission": 0,
+    "LightInfluence": 1,
+    "Orientation": "FacingCamera",
+    "Squash": 0,
+    "Texture": "rbxassetid://12996605668",
+    "Transparency": [],        
+    "ZOffset": 0,
+  
+    "EmissionDirection": "Top",
+    "Enabled": false,
+    "Lifetime": [0.2, 0.5],
+    "Rate": 5,
+    "Rotation": [-360, 360],
+    "RotSpeed": 0,
+    "Speed": 0,
+    "SpreadAngle": [0, 0],
+  
+    "Shape": "Box",
+    "ShapeInOut": "Outward",
+    "ShapeStyle": "Volume",
+  
+    "FlipbookMode": "OneShot",
+    "FlipbookStartRandom": false,
+    "FlipbookLayout": "Grid4x4",
+  
+    "Acceleration": [0, 0, 0],
+    "Drag": 0,
+    "LockedToPart": false,
+    "TimeScale": 1,
+    "VelocityInheritance": 0,
+    "WindAffectsDrag": false
+  }

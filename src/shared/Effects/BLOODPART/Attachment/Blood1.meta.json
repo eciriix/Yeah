@@ -1,0 +1,34 @@
+{
+    "$className": "ParticleEmitter",
+    "Name": "Blood",
+    "Archivable": true,
+  
+    "Color": [134,  53,  53],
+    "LightEmission": 0.4,
+    "LightInfluence": 1,
+    "Orientation": "VelocityParallel",
+    "Squash": 0,
+    "Texture": "rbxassetid://528256032",
+    "Transparency": [],         
+    "ZOffset": 2,
+  
+    "EmissionDirection": "Top",
+    "Enabled": false,
+    "Lifetime": [0.2, 0.4],
+    "Rate": 1,
+    "Rotation": 0,
+    "RotSpeed": 0,
+    "Speed": [10, 20],
+    "SpreadAngle": [360, -360],
+  
+    "Shape": "Box",
+    "ShapeInOut": "Outward",
+    "ShapeStyle": "Volume",
+  
+    "Acceleration": [0, -25, 0],
+    "Drag": 0,
+    "LockedToPart": true,
+    "TimeScale": 1,
+    "VelocityInheritance": 0,
+    "WindAffectsDrag": false
+  }

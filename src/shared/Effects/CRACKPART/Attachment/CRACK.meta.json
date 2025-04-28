@@ -1,0 +1,42 @@
+{
+    "$className": "ParticleEmitter",
+    "Name": "CRACK",
+    "Archivable": true,
+  
+
+    "Color": [111, 111, 111],
+    "LightEmission": 0,
+    "LightInfluence": 1,
+    "Orientation": "VelocityPerpendicular",
+    "Size": [3],                 
+    "Squash": 0,
+    "Texture": "rbxassetid://29268434",
+    "Transparency": [],           
+    "ZOffset": 0,
+  
+
+    "EmissionDirection": "Bottom",
+    "Enabled": false,
+    "Lifetime": 10,
+    "Rate": 1,
+    "Rotation": [0, 360],
+    "RotSpeed": 0,
+    "Speed": 0.001,
+    "SpreadAngle": [0, 0],
+  
+    
+    "Shape": "Box",
+    "ShapeInOut": "Outward",
+    "ShapeStyle": "Volume",
+  
+    "Acceleration": [0, 0, 0],
+    "Drag": 0,
+    "LockedToPart": false,
+    "TimeScale": 1,
+    "VelocityInheritance": 0,
+    "WindAffectsDrag": false,
+  
+   
+    "EmitCount": 1,
+    "EmitDelay": 0
+  }

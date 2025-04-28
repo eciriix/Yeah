@@ -1,0 +1,36 @@
+{
+    "$className": "ParticleEmitter",
+    "Name": "3",
+    "Archivable": true,
+    "Enabled": false,
+    "EmissionDirection": "Back",
+    "Lifetime": 0.2,
+    "Rate": 1,
+    "Rotation": 0,
+    "RotSpeed": 300,
+    "Speed": 0.1,
+    "SpreadAngle": 0,
+    "Shape": "Box",
+    "ShapeInOut": "Outward",
+    "ShapeStyle": "Volume",
+    "Texture": "rbxassetid://14512621777",
+    "Color": [255, 250, 92],
+    "LightEmission": 1,
+    "LightInfluence": 1,
+    "Orientation": "FacingCamera",
+    "Size": "<NumberSequence>",
+    "Squash": 0,
+    "Transparency": "<NumberSequence>",
+    "ZOffset": 0,
+    "Acceleration": [0, 0, 0],
+    "Drag": 0,
+    "LockedToPart": true,
+    "TimeScale": 1,
+    "VelocityInheritance": 0,
+    "WindAffectsDrag": false,
+    "Attributes": {
+      "EmitCount": 1,
+      "EmitDelay": 1.9
+    }
+  }
+  

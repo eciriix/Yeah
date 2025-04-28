@@ -1,0 +1,28 @@
+{
+    "$className": "MeshPart",
+    "Name": "Sword",
+    "Archivable": true,
+    "BrickColor": "Sand red",
+    "CastShadow": true,
+    "Color": [124, 119, 123],
+    "DoubleSided": false,
+    "Material": "Metal",
+    "MaterialVariant": "Metal4",
+    "MeshId": "rbxassetid://17578235505",
+    "Reflectance": 1,
+    "RenderFidelity": "Automatic",
+    "Transparency": 0,
+    "Size": [0.287, 3.057, 0.052],
+    "CFrame": {
+      "Position": [-175.256, -5.354, 221.052],
+      "Orientation": [0, 0, 0]
+    },
+    "EnableFluidForces": true,
+    "FluidFidelity": "Automatic",
+    "Anchored": false,
+    "CanCollide": false,
+    "CanQuery": true,
+    "CanTouch": false,
+    "CollisionFidelity": "Default",
+    "CollisionGroup": "Default"
+  }

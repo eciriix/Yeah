@@ -1,0 +1,25 @@
+{
+    "$className": "ParticleEmitter",
+    "Name": "10",
+    "Archivable": true,
+    "Enabled": false,
+    "EmissionDirection": "Bottom",
+    "Lifetime": [0.5, 0.75],
+    "Rate": 1,
+    "Rotation": 90,
+    "RotSpeed": 0,
+    "Speed": [24.5, 30],
+    "SpreadAngle": 360,
+    "Orientation": "VelocityParallel",
+    "Texture": "rbxassetid://10365553156",
+    "Transparency": 0,
+    "ZOffset": 0,
+    "Acceleration": [0, -17.5, 0],
+    "Drag": 7,
+    "LockedToPart": false,
+    "TimeScale": 0.9,
+    "VelocityInheritance": -0.045,
+    "WindAffectsDrag": false,
+    "EmitCount": 3
+  }
+  

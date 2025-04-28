@@ -1,0 +1,39 @@
+{
+    "$className": "ParticleEmitter",
+    "Name": "STRIKES",
+    "Archivable": true,
+  
+    "Brightness": 1,
+    "Color": [255, 255, 255],
+    "LightEmission": 1,
+    "LightInfluence": 0,
+    "Orientation": "FacingCamera",
+    "Squash": 0,
+    "Texture": "rbxassetid://10198439352",
+    "Transparency": [],            
+    "ZOffset": 0,
+  
+    "EmissionDirection": "Top",
+    "Enabled": false,
+    "Lifetime": [0.125, 0.25],
+    "Rate": 10,
+    "Rotation": [-360, 360],
+    "RotSpeed": 0,
+    "Speed": 0,
+    "SpreadAngle": [0, 0],
+  
+    "Shape": "Box",
+    "ShapeInOut": "Outward",
+    "ShapeStyle": "Volume",
+  
+    "FlipbookMode": "OneShot",
+    "FlipbookStartRandom": true,
+    "FlipbookLayout": "Grid4x4",
+  
+    "Acceleration": [0, 0, 0],
+    "Drag": 0,
+    "LockedToPart": false,
+    "TimeScale": 1,
+    "VelocityInheritance": 0,
+    "WindAffectsDrag": false
+  }

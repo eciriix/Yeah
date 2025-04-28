@@ -1,0 +1,22 @@
+{
+    "$className": "Trail",
+    "Name": "RUNNINGTRAIL",
+    "Archivable": true,
+  
+    "Attachment0": "Attachment0",
+    "Attachment1": "Attachment1",
+  
+    "Color": [255, 255, 255],
+    "FaceCamera": false,
+    "LightEmission": 0,
+    "LightInfluence": 1,
+    "Texture": "rbxassetid://4192000873",
+    "TextureLength": 1,
+    "TextureMode": "Stretch",
+  
+    "Enabled": true,
+    "Lifetime": 0.5,
+    "MaxLength": 2,
+    "MinLength": 0,
+    "WidthScale": 0.5
+  }

@@ -1,0 +1,27 @@
+{
+    "$className": "Part",
+    "Name": "CRACKPART",
+    "Archivable": true,
+  
+    "BrickColor": "Medium stone grey",
+    "CastShadow": true,
+    "Color": [163, 162, 165],
+    "Material": "Plastic",
+    "Reflectance": 0,
+    "Transparency": 1,
+  
+    "Size": [1, 1, 1],
+    "CFrame": {
+      "Position": [-240.24, 16.207, 316.83],
+      "Orientation": [0, 0, 0]
+    },
+  
+    "EnableFluidForces": true,
+    "Anchored": false,
+  
+    "CanCollide": true,
+    "CanTouch": true,
+    "CollisionGroup": "Default",
+  
+    "Shape": "Block"
+  }

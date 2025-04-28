@@ -1,0 +1,25 @@
+{
+    "$className": "MeshPart",
+    "Name": "MeshPart",
+    "Archivable": true,
+    "BrickColor": "Lemon metallic",
+    "CastShadow": true,
+    "Color": [134, 131, 85],
+    "DoubleSided": false,
+    "Material": "SmoothPlastic",
+    "MaterialVariant": "Leather2",
+    "MeshId": "rbxassetid://17578231045",
+    "Transparency": 0,
+    "Size": [0.248, 1.223, 0.11],
+    "CFrame": {
+      "Position": [-175.256, -7.484, 221.042],
+      "Orientation": [0, 0, 0]
+    },
+    "Anchored": false,
+    "CanCollide": false,
+    "CanQuery": true,
+    "CanTouch": false,
+    "CollisionFidelity": "Default",
+    "CollisionGroup": "Default"
+  }
+  

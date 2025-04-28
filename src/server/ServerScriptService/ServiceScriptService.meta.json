@@ -1,0 +1,6 @@
+{
+    "$className": "ServerScriptService",
+    "Name": "ServerScriptService",
+    "Archivable": true,
+    "LoadStringEnabled": false
+  }

@@ -1,0 +1,15 @@
+{
+    "$className": "Weld",
+    "Name": "Sword",
+    "Part0": "BodyAttach",
+    "Part1": "Sword",
+    "C0": {
+      "Position": [0.483, -3.771, 0.07],
+      "Orientation": [1.558, 176.622, -172.092]
+    },
+    "C1": {
+      "Position": [0, 0, 0],
+      "Orientation": [0, 0, 0]
+    },
+    "Enabled": true
+  }

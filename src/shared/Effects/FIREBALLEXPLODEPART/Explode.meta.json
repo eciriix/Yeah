@@ -1,0 +1,13 @@
+{
+    "$className": "Sound",
+    "Name": "Explode",
+    "Archivable": true,
+    "PlayOnRemove": false,
+    "SoundId": "rbxassetid://33188725",
+    "RollOffMaxDistance": 320,
+    "RollOffMinDistance": 10,
+    "RollOffMode": "Inverse",
+    "Looped": false,
+    "PlaybackSpeed": 1,
+    "Volume": 1
+  }

@@ -1,0 +1,10 @@
+{
+    "$className": "Attachment",
+    "Name": "Attachment",
+    "Archivable": true,
+    "CFrame": {
+      "Position": [0, 0, 0],
+      "Orientation": [0, 0, 0]
+    }
+  }
+  

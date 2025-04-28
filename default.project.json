@@ -2,66 +2,53 @@
   "name": "MonJeuRoblox",
   "tree": {
     "$className": "DataModel",
-
     "ReplicatedStorage": {
       "$className": "ReplicatedStorage",
-
       "Events": {
         "$className": "Folder",
         "$path": "src/shared/Events"
       },
-
       "Abilities": {
         "$className": "Folder",
         "$path": "src/shared/Abilities"
       },
-
       "Animations": {
         "$className": "Folder",
         "$path": "src/shared/Animations"
       },
-
       "AnimationData": {
         "$className": "ModuleScript",
         "$path": "src/shared/AnimationData.lua"
       },
-
       "Modules": {
         "$className": "Folder",
         "$path": "src/shared/Modules"
       },
-
       "Weapons": {
         "$className": "Folder",
         "$path": "src/shared/Weapons"
       },
-
       "Effects": {
         "$className": "Folder",
         "$path": "src/shared/Effects"
       }
     },
-
     "ServerScriptService": {
       "$className": "ServerScriptService",
       "$path": "src/server/ServerScriptService"
     },
-
     "ServerStorage": {
       "$className": "ServerStorage",
       "$path": "src/server/ServerStorage"
     },
-
     "StarterGui": {
       "$className": "StarterGui",
       "$path": "src/client/StarterGui"
     },
-
     "StarterPack": {
       "$className": "StarterPack",
       "$path": "src/client/StarterPack"
     },
-
     "StarterPlayer": {
       "$className": "StarterPlayer",
       "$path": "src/client/StarterPlayer"

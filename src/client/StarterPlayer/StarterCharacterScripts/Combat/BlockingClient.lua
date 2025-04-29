@@ -15,7 +15,7 @@ local AnimationModule = require(RS:WaitForChild('Modules'):WaitForChild('Animati
 
 -- Settings
 local debounce = false
-local blockCooldown = 1
+local blockCooldown = 0
 
 local function startBlocking(guardbroke)
 	debounce = true

@@ -2,7 +2,7 @@ local module = {}
 
 local info = {
 	['Blocking'] = {
-		ParryFrame = .15;
+		ParryFrame = .35;
 	},
 	
 	['MSword'] = {
